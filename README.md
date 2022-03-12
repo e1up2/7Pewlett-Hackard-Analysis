@@ -57,22 +57,22 @@ In the second part of our analysis, we will use SQL queries to determine the num
 
 Number of Employees Retiring By Title
 
-![Retiring_Titles_Count_](retiring_titles_count.png)
+![Retiring_Titles_Count_](imagesretiring_titles_count.png)
 
 
 The Employees Eligible for the Mentorship Program
 
-![Mentorship_Eligibility_](mentorship_eligibility.png)
+![Mentorship_Eligibility_](images/mentorship_eligibility.png)
 
 
 Mentorship Eligibility Title Count
 
-![Mentorship_Eligibility_Title_Count](eligibility_title_count.png)
+![Mentorship_Eligibility_Title_Count](images/eligibility_title_count.png)
 
 
 Mentorship Eligibility Department Count
 
-![Mentorship_Eligibility_Dept_Count_](eligibility_dept_count.png)
+![Mentorship_Eligibility_Dept_Count_](images/eligibility_dept_count.png)
 
 
 
@@ -87,16 +87,16 @@ The Development department with 23,927 has the biggest shortfall of eligible emp
 
 Retiring Departments
 
-![Retiring_Depts](retiring_depts.png)
+![Retiring_Depts](images/retiring_depts.png)
 
 Retiring Departments Count
 
-![Retiring_Depts_Count](retiring_depts_counts.png)
+![Retiring_Depts_Count](images/retiring_depts_counts.png)
 
 Shortfall By Title
 
-![Shortfall_By_Titles](shortfall_by_titles.png)
+![Shortfall_By_Titles](images/shortfall_by_titles.png)
 
 Shortfall By Departments
 
-![Shortfall_By_Depts](shortfall_by_depts.png)
+![Shortfall_By_Depts](images/shortfall_by_depts.png)
