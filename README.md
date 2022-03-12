@@ -57,7 +57,7 @@ In the second part of our analysis, we will use SQL queries to determine the num
 
 Number of Employees Retiring By Title
 
-![Retiring_Titles_Count_](imagesretiring_titles_count.png)
+![Retiring_Titles_Count_](images/retiring_titles_count.png)
 
 
 The Employees Eligible for the Mentorship Program
